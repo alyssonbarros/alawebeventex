@@ -1,0 +1,16 @@
+Olá, tudo bem!
+
+Muito obrigada por inscrever no eventex!
+
+Estes foram os dados que você nos forneceu na inscrição.
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Atenciosamente,
+
+--
+
+Morena
